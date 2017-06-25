@@ -1,0 +1,20 @@
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Release\MyClient.exe.config
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Release\MyClient.exe
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Release\MyClient.pdb
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Release\MyClient.Form2.resources
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Release\MyClient.Properties.Resources.resources
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Release\MyClient.csproj.GenerateResource.Cache
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Release\MyClient.exe
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Release\MyClient.pdb
+C:\Users\maq\Documents\Visual Studio 2015\Projects\MyClient\MyClient\obj\Release\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\maq\Documents\Visual Studio 2015\Projects\MyClient\MyClient\obj\Release\MyClient.mainForm.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\bin\Release\MyClient.exe.config
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\bin\Release\MyClient.exe
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\bin\Release\MyClient.pdb
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Release\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Release\MyClient.mainForm.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Release\MyClient.Form2.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Release\MyClient.Properties.Resources.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Release\MyClient.csproj.GenerateResource.Cache
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Release\MyClient.exe
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Release\MyClient.pdb

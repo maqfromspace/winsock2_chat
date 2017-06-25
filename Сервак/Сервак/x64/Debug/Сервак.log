@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\maq\desktop\c++\сервак\сервак\source.cpp(22): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\maq\desktop\c++\сервак\сервак\source.cpp(53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\maq\desktop\c++\сервак\сервак\source.cpp(68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\maq\desktop\c++\сервак\сервак\source.cpp(70): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  Сервак.vcxproj -> C:\Users\maq\Desktop\c++\Сервак\x64\Debug\Сервак.exe
+  Сервак.vcxproj -> C:\Users\maq\Desktop\c++\Сервак\x64\Debug\Сервак.pdb (Partial PDB)

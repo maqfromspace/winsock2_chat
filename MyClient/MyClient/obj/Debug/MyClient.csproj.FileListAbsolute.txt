@@ -1,0 +1,20 @@
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyClient.exe.config
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyClient.exe
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\bin\Debug\MyClient.pdb
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.Form2.resources
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.Properties.Resources.resources
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.csproj.GenerateResource.Cache
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.exe
+c:\users\maq\documents\visual studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.pdb
+C:\Users\maq\Documents\Visual Studio 2015\Projects\MyClient\MyClient\obj\Debug\MyClient.mainForm.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Debug\MyClient.mainForm.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Debug\MyClient.Form2.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Debug\MyClient.Properties.Resources.resources
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Debug\MyClient.csproj.GenerateResource.Cache
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\maq\Desktop\c++\15\MyClient\MyClient\obj\Debug\MyClient.pdb
